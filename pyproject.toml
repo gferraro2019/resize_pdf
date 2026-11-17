@@ -1,0 +1,8 @@
+[project]
+name = "resize-pdf"
+version = "0.1.0"
+description = "Comprimi i PDF riducendo la risoluzione delle immagini."
+requires-python = ">=3.10"
+dependencies = [
+    "pymupdf>=1.26",
+]
